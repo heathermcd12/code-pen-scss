@@ -30,6 +30,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   background: white;
+  font-family: 'Open Sans', sans-serif;
 }
 
 *, *:before, *:after {
@@ -40,9 +41,6 @@ html {
   box-sizing: border-box;
 }
 
-body {
-  color: #2c3e50;
-}
 h1 {
   text-align: center;
 }
@@ -71,6 +69,7 @@ label {
   background: black;
   font-weight: bold;
   line-height: 3;
+  width: 3;
   cursor: pointer;
 }
 .blue label {
