@@ -26,10 +26,28 @@ html {
 
 body {
   color: black;
+  margin: 1em;
 }
+
 h1 {
   text-align: center;
+  margin: 1em;
 }
+
+h2 {
+  padding-top: .5em;
+  text-align: center;
+}
+
+.logo {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+p {
+    margin: 1em;
+}
+
 .half {
   float: left;
   width: 50%;
