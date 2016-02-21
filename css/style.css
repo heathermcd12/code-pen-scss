@@ -385,8 +385,18 @@ h2 {
   text-align: center;
 }
 
+.icon {
+    padding-top: 50px;
+    text-align: center;
+    width: 100%;
+    visibility: visible;
+    display: inline-block;
+    font-size: 5em;
+    line-height: 0;
+    color: black;
+}
+
 .logo {
-  padding-top: 1em;
   padding-bottom: 1em;
 }
 

@@ -39,8 +39,18 @@ h2 {
   text-align: center;
 }
 
+.icon {
+    padding-top: 50px;
+    text-align: center;
+    width: 100%;
+    visibility: visible;
+    display: inline-block;
+    font-size: 20em;
+    line-height: 0;
+    color: black;
+}
+
 .logo {
-    padding-top: 1em;
     padding-bottom: 1em;
 }
 
@@ -54,6 +64,9 @@ p {
   padding: 0 1em;
 }
 /* Acordeon styles */
+
+.menu {
+    
 .tab {
   position: relative;
   margin-bottom: 1px;
